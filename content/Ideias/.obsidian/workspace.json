@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Aikido.md",
+                "file": "Ideia 1.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Aikido.md",
+                "file": "Ideia 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Aikido.md",
+                "file": "Ideia 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Aikido.md"
+                "file": "Ideia 1.md"
               }
             }
           }
@@ -142,8 +142,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -155,8 +154,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e8b65cc3b00a615e",
+  "active": "ba936af0f8e64604",
   "lastOpenFiles": [
+    "Ideias MOC.md",
+    "Ideia 3.md",
+    "Ideia 1.md",
+    "Ideia 2.md",
+    "Ptolemy (kit).md",
+    "150 - The Almagest.md",
+    "Aikido.md",
     "Concepts MOC.md",
     "+ About Atlas.md",
     "Thinking MOC.md",
@@ -176,13 +182,6 @@
     "Life Map.md",
     "Library.md",
     "Language MOC.md",
-    "Inbox.md",
-    "Health MOC.md",
-    "Habits MOC.md",
-    "Finance MOC.md",
-    "Efforts.md",
-    "Daily Notes.md",
-    "2015-02-20 Habit Formation Research Article.md",
     "Calendar",
     "Sources",
     "Extras/Images/wolverine-tethered.jpg",

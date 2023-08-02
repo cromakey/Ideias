@@ -1,4 +1,8 @@
-# Ideias MOC
+```yaml
+title: "Ideias MOC"
+tags:
+- #ideias
+```
 
 - [[Ideia 1]]
 - [[Ideia 2]]

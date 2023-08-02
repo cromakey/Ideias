@@ -1,5 +1,8 @@
-
-# Ideia 1
+```yaml
+title: "Ideia 1"
+tags:
+- #ideias
+```
 
 Texto com a nova ideia 1
 
