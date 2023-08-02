@@ -1,5 +1,5 @@
 ---
-title: "Ideias Moc"
+title: "Ideias Mocas"
 aliases:
 - update
 ---
