@@ -1,8 +1,8 @@
-```yaml
-title: "Ideias MOC"
-tags:
-- #ideias
-```
+---
+title: "Ideias Moc"
+aliases:
+- update
+---
 
 - [[Ideia 1]]
 - [[Ideia 2]]
