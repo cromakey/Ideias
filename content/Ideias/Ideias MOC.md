@@ -1,5 +1,5 @@
 ```yaml
-title: "Ideias MOC"
+title: "Ideias MOCA"
 tags:
 - #ideias
 ```
