@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/notes/Ideias MOC.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/notes/Ideias MOC.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/notes/Ideias MOC.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/notes/Ideias MOC.md"
+                "file": "README.md"
               }
             }
           }
@@ -133,8 +133,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -148,9 +147,17 @@
   },
   "active": "21610d8c30744672",
   "lastOpenFiles": [
+    "CODE_OF_CONDUCT.md",
+    "content/notes/troubleshooting.md",
+    "content/notes/updating.md",
+    "content/notes/editing.md",
+    "content/notes/docker.md",
+    "content/notes/custom Domain.md",
+    "content/notes/config.md",
+    "content/notes/preview changes.md",
+    "content/notes/Ideias MOC.md",
     "content/notes/Ideia 3.md",
     "content/notes/Ideia 2.md",
-    "content/notes/Ideia 1.md",
-    "content/notes/troubleshooting.md"
+    "content/notes/Ideia 1.md"
   ]
 }
