@@ -13,3 +13,8 @@ Teste
 
 [FAQ and Troubleshooting guide](notes/troubleshooting.md)
 
+[[Ideias 4]]
+[Ideias 5](notes/Ideias_5.md)
+
+
+
