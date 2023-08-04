@@ -7,3 +7,4 @@ title: "Novas Ideias"
 [[content/notes/custom Domain]]
 
 [[content/notes/Ideia 1]]
+

@@ -22,3 +22,12 @@ Teste
 
 
 
+
+Project Id: prj_WuNEQAZy9T3JSYxS8CtP3Uj2BHS9
+
+Personal ID: De5ksxlMas91UhM09Hs7fVoo
+
+Token: Wqm6EcxpVuodS913f6oavrWo
+
+GIT Developer Settings Token: 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
+

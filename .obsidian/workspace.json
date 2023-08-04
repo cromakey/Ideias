@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/notes/NovasIdeias.md",
+                "file": "content/notes/Ideia 1.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/notes/NovasIdeias.md",
+                "file": "content/notes/Ideia 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/notes/NovasIdeias.md",
+                "file": "content/notes/Ideia 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/notes/NovasIdeias.md"
+                "file": "content/notes/Ideia 1.md"
               }
             }
           }
@@ -161,8 +161,9 @@
   },
   "active": "b51fa3f73fcf18f7",
   "lastOpenFiles": [
-    "content/notes/showcase.md",
+    "content/notes/troubleshooting.md",
     "content/notes/NovasIdeias.md",
+    "content/notes/showcase.md",
     "content/notes/Ideia 1.md",
     "content/notes/custom Domain.md",
     "content/notes/Ideias MOC.md",
@@ -175,7 +176,6 @@
     "content/_index.md",
     "README.md",
     "CODE_OF_CONDUCT.md",
-    "content/notes/troubleshooting.md",
     "content/notes/updating.md",
     "content/notes/editing.md",
     "content/notes/docker.md",
