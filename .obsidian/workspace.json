@@ -31,7 +31,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/notes/Ideia 1.md",
+                "file": "content/notes/NovasIdeias.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/notes/Ideia 1.md",
+                "file": "content/notes/NovasIdeias.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/notes/Ideia 1.md"
+                "file": "content/notes/NovasIdeias.md"
               }
             }
           }
@@ -158,10 +159,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bce71f02dd8a651c",
+  "active": "b51fa3f73fcf18f7",
   "lastOpenFiles": [
+    "content/notes/showcase.md",
     "content/notes/NovasIdeias.md",
     "content/notes/Ideia 1.md",
+    "content/notes/custom Domain.md",
     "content/notes/Ideias MOC.md",
     "Ideias 4.md",
     "Ideias_5.md",
@@ -176,7 +179,6 @@
     "content/notes/updating.md",
     "content/notes/editing.md",
     "content/notes/docker.md",
-    "content/notes/custom Domain.md",
     "content/notes/preview changes.md",
     "content/notes/Ideia 3.md",
     "content/notes/Ideia 2.md"

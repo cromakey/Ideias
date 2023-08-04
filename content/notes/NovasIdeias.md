@@ -1,3 +1,7 @@
+---
+title: "Novas Ideias"
+---
+
 [Obsidian](obsidian.md)
 
 [[content/notes/custom Domain]]
