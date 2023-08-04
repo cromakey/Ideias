@@ -31,3 +31,5 @@ Token: Wqm6EcxpVuodS913f6oavrWo
 
 GIT Developer Settings Token: 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
 
+https://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@github.com/cromakey/linked.git
+
