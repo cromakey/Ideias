@@ -13,6 +13,7 @@ Teste
 
 [FAQ and Troubleshooting guide](notes/updating.md)
 
+[FAQ and Troubleshooting guide](notes/novasideias.md)
 [[Ideias_5]]
 
 
