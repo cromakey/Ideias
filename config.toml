@@ -1,4 +1,4 @@
-baseURL = "https://cromakey.github.io/ideias/"
+baseURL = "https://cromakey.github.io/ideias/content/"
 languageCode = "pt-pt"
 relativeURLs = false
 disablePathToLower = true
