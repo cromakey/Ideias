@@ -11,13 +11,14 @@ E outro para a a [[Ideia 3]]
 Teste 
 [this article](https://www.emergeinteractive.com/insights/detail/the-essentials-of-favicons/)
 
-[FAQ and Troubleshooting guide](notes/updating.md)
+[Updating](notes/updating.md)
 
-[FAQ and Troubleshooting guide](notes/novasideias.md)
+[Novas Ideias](novasideias.md)
+
 [[Ideias_5]]
 
-
-
+[[content/notes/ignore notes]]
+[[content/notes/Ideias MOC]]
 
 
 
